@@ -21,7 +21,7 @@ O **Teclado Musical** permite que o usuário reproduza diferentes sons de instru
 
 ## 🔗 Links
 
-* **Deploy do projeto:** 
+* **Deploy do projeto:** https://rafael-gtavares.github.io/tecladoMusical/
 * **Meu LinkedIn:** www.linkedin.com/in/rafael-tavares2008
 
 ---
