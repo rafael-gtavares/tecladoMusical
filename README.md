@@ -21,8 +21,8 @@ O **Teclado Musical** permite que o usuário reproduza diferentes sons de instru
 
 ## 🔗 Links
 
-* **Deploy do projeto:** [COLE O LINK DO SEU DEPLOY AQUI]
-* **Meu LinkedIn:** [COLE O LINK DO SEU PERFIL AQUI]
+* **Deploy do projeto:** 
+* **Meu LinkedIn:** www.linkedin.com/in/rafael-tavares2008
 
 ---
 
